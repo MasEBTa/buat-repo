@@ -3,3 +3,4 @@ resolusi :
 - mencari kerja
 - membuat web belajar
 - membuat tempat yang nyaman untuk belajar
+- Membisu dan bekerja dalam diam
